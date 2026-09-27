@@ -1,0 +1,7 @@
+app_id,risk_score,risk_category,credit_to_income,data_flag,needs_review,explanation
+APP-001,11,Low,2.0,,False,"Profil risiko pemohon berada pada level rendah, terutama dipengaruhi oleh skor eksternal (EXT_SOURCE_2) rendah sebesar 0.72."
+APP-002,100,High,7.0,,True,"Profil risiko pemohon berada pada level tinggi, terutama dipengaruhi oleh skor eksternal (EXT_SOURCE_2) rendah sebesar 0.18 dan rasio cicilan kredit terhadap pendapatan yang sangat tinggi (7.0x)."
+APP-003,80,High,6.0,,True,"Profil risiko pemohon berada pada level tinggi, terutama dipengaruhi oleh skor eksternal (EXT_SOURCE_2) rendah sebesar 0.25 dan rasio cicilan kredit terhadap pendapatan yang sangat tinggi (6.0x)."
+APP-004,54,Medium,3.5,,False,"Profil risiko pemohon berada pada level menengah, terutama dipengaruhi oleh skor eksternal (EXT_SOURCE_2) rendah sebesar 0.35 dan status tempat tinggal yang belum mandiri (rented apartment)."
+APP-005,92,High,6.25,,True,"Profil risiko pemohon berada pada level tinggi, terutama dipengaruhi oleh skor eksternal (EXT_SOURCE_2) rendah sebesar 0.20 dan rasio cicilan kredit terhadap pendapatan yang sangat tinggi (6.2x)."
+APP-006,20,Low,2.0,EXT_SOURCE_2 kosong - wajib review manual,True,"Profil risiko pemohon berada pada level rendah, terutama dipengaruhi oleh skor eksternal (EXT_SOURCE_2) tidak tersedia sehingga dinilai netral-berisiko."
