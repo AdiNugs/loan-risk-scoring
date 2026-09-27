@@ -1,0 +1,7 @@
+app_id,applicant_name,EXT_SOURCE_2,AMT_INCOME_TOTAL,AMT_CREDIT,YEARS_EMPLOYED,NAME_EDUCATION_TYPE,NAME_HOUSING_TYPE,REGION_RATING_CLIENT,docs_received,status
+APP-001,Budi Santoso,0.72,180000000,360000000,8,Higher education,House / apartment,1,,NEW
+APP-002,Rina Wulandari,0.18,60000000,420000000,0.5,Lower secondary,Rented apartment,3,,NEW
+APP-003,Dedi Kurniawan,0.25,90000000,540000000,2,Secondary / secondary special,With parents,3,,NEW
+APP-004,Sari Lestari,0.35,100000000,350000000,4,Secondary / secondary special,Rented apartment,2,,NEW
+APP-005,Agus Pratama,0.2,72000000,450000000,0.8,Secondary / secondary special,Rented apartment,3,,NEW
+APP-006,Maya Putri,,150000000,300000000,5,Higher education,House / apartment,1,,NEW
